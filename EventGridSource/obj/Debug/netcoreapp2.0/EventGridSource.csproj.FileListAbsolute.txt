@@ -1,0 +1,8 @@
+E:\workspace\test\EventGridSource\EventGridSource\bin\Debug\netcoreapp2.0\EventGridSource.deps.json
+E:\workspace\test\EventGridSource\EventGridSource\bin\Debug\netcoreapp2.0\EventGridSource.runtimeconfig.json
+E:\workspace\test\EventGridSource\EventGridSource\bin\Debug\netcoreapp2.0\EventGridSource.runtimeconfig.dev.json
+E:\workspace\test\EventGridSource\EventGridSource\bin\Debug\netcoreapp2.0\EventGridSource.dll
+E:\workspace\test\EventGridSource\EventGridSource\obj\Debug\netcoreapp2.0\EventGridSource.csprojAssemblyReference.cache
+E:\workspace\test\EventGridSource\EventGridSource\obj\Debug\netcoreapp2.0\EventGridSource.csproj.CoreCompileInputs.cache
+E:\workspace\test\EventGridSource\EventGridSource\obj\Debug\netcoreapp2.0\EventGridSource.AssemblyInfoInputs.cache
+E:\workspace\test\EventGridSource\EventGridSource\obj\Debug\netcoreapp2.0\EventGridSource.AssemblyInfo.cs
